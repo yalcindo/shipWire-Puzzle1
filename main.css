@@ -1,0 +1,20 @@
+.canvas{
+	position:absolute;
+	height:600px;
+	width:800px;
+	background-color:peachpuff;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.container{
+ margin:100px;
+}
+.box{
+	border-style:solid;
+	background-color:white;
+	border-color:white green white green;
+	position:absolute;
+	width:100%;
+
+	
+}
